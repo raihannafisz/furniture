@@ -1,4 +1,4 @@
-#  landing page responsive menggunakan html , css & js 
+#  landing page furniture responsive menggunakan html , css & js 
 
 ### 
 
